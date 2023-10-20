@@ -1,1 +1,6 @@
-# BA-780-B02-Project
+Contributors: 
+Aishwarya Jayant Rauthan
+Dhruv Shah
+Haaniya Umair
+Setu Shah
+Yifei Cheng
