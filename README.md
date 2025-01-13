@@ -34,7 +34,7 @@ Through **data cleaning**, **exploratory data analysis (EDA)**, and **visualizat
 - Products with regional popularity were identified, enabling **targeted marketing campaigns**.  
 
 **Visualization:**  
-![Choropleth Map](path/to/choropleth_map.png)  
+![Choropleth Map](seasonal_sales.png)  
 
 ---
 
@@ -43,7 +43,7 @@ Through **data cleaning**, **exploratory data analysis (EDA)**, and **visualizat
 - Return rates peaked in January, potentially due to post-holiday gift returns.  
 
 **Visualization:**  
-![Return Rates](path/to/return_rates_chart.png)  
+![Return Rates](returns.png)  
 
 ---
 
