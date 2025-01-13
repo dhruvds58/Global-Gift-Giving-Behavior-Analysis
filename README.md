@@ -25,7 +25,7 @@ Through **data cleaning**, **exploratory data analysis (EDA)**, and **visualizat
 - A **20% increase** in sales volume was observed during these months compared to the yearly average.  
 
 **Visualization:**  
-![Seasonal Sales Trends](path/to/seasonal_sales_chart.png)  
+![Seasonal Sales Trends](seasonal_sales.png)  
 
 ---
 
