@@ -34,7 +34,7 @@ Through **data cleaning**, **exploratory data analysis (EDA)**, and **visualizat
 - Products with regional popularity were identified, enabling **targeted marketing campaigns**.  
 
 **Visualization:**  
-![Choropleth Map](seasonal_sales.png)  
+![Choropleth Map](intl_sales.png)  
 
 ---
 
